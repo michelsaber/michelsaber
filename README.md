@@ -11,7 +11,7 @@ and my JavaScript game built using p5.js library:
 
 🔭 I’m currently working on MERN stack
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python and React
 
 <!--
 **michelsaber/michelsaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
