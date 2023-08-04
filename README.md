@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am Michel with a background of Civil Engineering, curious about JS and Python. My passion and interest lies in Coding.
 
-Check out Sparsam my budgeting app project:
+Check out Sparsam, a budgeting app project:
 🤩 https://sparsam.netlify.app/ 🤩
 
-and Festiva, the festival booking app:
+and Festiva, a festival booking app:
 🤩 https://festiva.adaptable.app/ 🤩
 
 and my JavaScript game built using p5.js library:
