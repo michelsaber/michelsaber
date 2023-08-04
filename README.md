@@ -9,7 +9,7 @@ and Festiva, the festival booking app:
 
 and my JavaScript game built using p5.js library:
 
-🤩 https://olga321go.github.io/legend-of-wawel/ 🤩
+🤩 https://michelsaber.github.io/Pokemon-Canvas-Game/ 🤩
 
 🌱 I’m currently learning Python 
 
