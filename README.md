@@ -1,17 +1,17 @@
 ### Hi there 👋
 I am Michel with a background of Civil Engineering, curious about JS and Python. My passion and interest lies in Coding.
 
-Check out my collaboration project:
+Check out Sparsam my budgeting app project:
+🤩 https://sparsam.netlify.app/ 🤩
 
+and Festiva, the festival booking app:
 🤩 https://festiva.adaptable.app/ 🤩
 
 and my JavaScript game built using p5.js library:
 
 🤩 https://olga321go.github.io/legend-of-wawel/ 🤩
 
-🔭 I’m currently working on MERN stack
-
-🌱 I’m currently learning Python and React
+🌱 I’m currently learning Python 
 
 <!--
 **michelsaber/michelsaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
