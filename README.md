@@ -8,7 +8,6 @@ and Festiva, a festival booking app:
 🤩 https://festiva.adaptable.app/ 🤩
 
 and my JavaScript game built using p5.js library:
-
 🤩 https://michelsaber.github.io/Pokemon-Canvas-Game/ 🤩
 
 🌱 I’m currently learning Python 
