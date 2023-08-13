@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Michel with a background of Civil Engineering, curious about JS and Python. My passion and interest lies in Coding.
+I am Michel with a background of Civil Engineering, curious about Programming. My passion and interest lies in Coding.
 
 Check out Sparsam, a budgeting app project:
 🤩 https://sparsam.netlify.app/ 🤩
