@@ -1,10 +1,10 @@
 ### Hi there 👋
 I am Michel with a background of Civil Engineering, curious about Programming. My passion and interest lies in Coding.
 
-Check out Sparsam, a budgeting app project:
+Check out Sparsam, a budgeting Single-Page-App using React on the Frontend, Express and MongoDB on the Backend:
 🤩 https://sparsam.netlify.app/ 🤩
 
-and Festiva, a festival booking app:
+and Festiva, a festival booking app with a backend of Express and MongoDB:
 🤩 https://festiva.adaptable.app/ 🤩
 
 and my JavaScript game built using p5.js library:
