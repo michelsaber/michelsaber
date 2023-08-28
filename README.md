@@ -10,7 +10,7 @@ and Festiva, a festival booking app with a backend of Express and MongoDB:
 and my JavaScript game built using p5.js library:
 🤩 https://michelsaber.github.io/Pokemon-Canvas-Game/ 🤩
 
-🌱 I’m currently learning Python and Typescript
+🌱 I’m currently learning AngularJS and Typescript
 
 <!--
 **michelsaber/michelsaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
